@@ -38,7 +38,12 @@ La base de datos **`empresa-seguridad`** permite el registro y la gestión efici
 
 Esta base de datos es ideal para desarrollos en aplicaciones móviles Android o sistemas web que requieren la gestión de recursos de seguridad, armas, y registros empresariales. Puede integrarse fácilmente en proyectos que utilicen bases de datos locales como SQLite o frameworks de desarrollo como Android Studio.
 
+## Proyecto Académico
+
+Este proyecto fue desarrollado como parte del curso de **Bases de Datos** en la **Universidad de Córdoba**. Representa una aplicación práctica de los conceptos y técnicas aprendidos durante la asignatura, enfocados en el diseño y la gestión de bases de datos.
+
 ## Requisitos y Herramientas
 
 - **Motor de base de datos**: MariaDB, MySQL, SQLite.
 - **Herramienta de administración**: phpMyAdmin o cualquier editor SQL compatible.
+
